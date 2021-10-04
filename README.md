@@ -1,1 +1,1 @@
-# Chat app
+# golang-docker-boilertemplate
